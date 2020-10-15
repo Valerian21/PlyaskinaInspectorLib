@@ -1,0 +1,10 @@
+C:\Users\79144\Desktop\С#\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\79144\Desktop\С#\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\79144\Desktop\С#\InspectorLib\obj\Debug\InspectorLib.csprojAssemblyReference.cache
+C:\Users\79144\Desktop\С#\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\79144\Desktop\С#\InspectorLib\obj\Debug\InspectorLib.pdb
+C:\Users\79144\Desktop\С#\PlyaskinaInspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\79144\Desktop\С#\PlyaskinaInspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\79144\Desktop\С#\PlyaskinaInspectorLib\obj\Debug\InspectorLib.csprojAssemblyReference.cache
+C:\Users\79144\Desktop\С#\PlyaskinaInspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\79144\Desktop\С#\PlyaskinaInspectorLib\obj\Debug\InspectorLib.pdb
